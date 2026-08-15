@@ -1,3 +1,7 @@
+> **Archived.** Active development has moved into [`C2TypeScript/translated-projects/ts-antirez-sds`](https://github.com/ScottMoore0/C2TypeScript/tree/main/translated-projects/ts-antirez-sds), where this project's full history is preserved as a git subtree.
+>
+> This repository stays in place, read-only, as the `repository` target of the published npm package.
+
 # ts-antirez-sds
 
 A direct TypeScript translation of [sds](https://github.com/antirez/sds) (Simple Dynamic Strings), the C string library written by Salvatore Sanfilippo for Redis.
